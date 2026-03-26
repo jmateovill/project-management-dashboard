@@ -1,0 +1,81 @@
+MilestoneID,ProjectID,MilestoneName,TargetDate,ActualCompletionDate,MilestoneStatus
+1,1,Discovery,2025-08-31,2025-08-31,Pending
+2,1,MVP,2025-07-21,2025-07-21,Pending
+3,1,Beta Launch,2025-06-19,2025-06-27,Delayed
+4,1,Final Handover,2025-09-04,2025-09-04,Pending
+5,2,Discovery,2025-10-31,2025-10-31,Pending
+6,2,MVP,2025-09-12,2025-09-17,Delayed
+7,2,Beta Launch,2025-10-01,2025-10-01,On-Time
+8,2,Final Handover,2025-11-15,2025-11-21,Delayed
+9,3,Discovery,2025-08-28,2025-08-28,On-Time
+10,3,MVP,2025-07-07,2025-07-07,Pending
+11,3,Beta Launch,2025-07-25,2025-08-12,Delayed
+12,3,Final Handover,2025-09-06,2025-09-06,On-Time
+13,4,Discovery,2025-10-20,2025-10-20,Pending
+14,4,MVP,2025-10-31,2025-10-31,On-Time
+15,4,Beta Launch,2025-08-31,2025-08-31,Pending
+16,4,Final Handover,2025-07-25,2025-07-25,Pending
+17,5,Discovery,2026-03-22,2026-03-22,On-Time
+18,5,MVP,2026-04-07,2026-04-24,Delayed
+19,5,Beta Launch,2026-04-04,2026-04-16,Delayed
+20,5,Final Handover,2026-04-24,2026-05-11,Delayed
+21,6,Discovery,2025-11-05,2025-11-05,Pending
+22,6,MVP,2025-11-07,2025-11-19,Delayed
+23,6,Beta Launch,2026-02-19,2026-02-19,On-Time
+24,6,Final Handover,2025-11-12,2025-12-01,Delayed
+25,7,Discovery,2025-04-18,2025-05-04,Delayed
+26,7,MVP,2025-07-21,2025-08-08,Delayed
+27,7,Beta Launch,2025-07-15,2025-07-31,Delayed
+28,7,Final Handover,2025-06-17,2025-07-04,Delayed
+29,8,Discovery,2025-11-10,2025-11-10,On-Time
+30,8,MVP,2025-11-02,2025-11-02,On-Time
+31,8,Beta Launch,2025-11-24,2025-11-24,Pending
+32,8,Final Handover,2025-10-20,2025-10-20,Pending
+33,9,Discovery,2025-06-06,2025-06-09,Delayed
+34,9,MVP,2025-07-04,2025-07-22,Delayed
+35,9,Beta Launch,2025-06-20,2025-06-20,On-Time
+36,9,Final Handover,2025-05-31,2025-05-31,On-Time
+37,10,Discovery,2025-09-16,2025-09-18,Delayed
+38,10,MVP,2025-12-06,2025-12-06,On-Time
+39,10,Beta Launch,2025-09-22,2025-09-22,On-Time
+40,10,Final Handover,2025-10-26,2025-11-14,Delayed
+41,11,Discovery,2025-08-19,2025-08-19,Pending
+42,11,MVP,2025-09-18,2025-09-18,On-Time
+43,11,Beta Launch,2025-06-19,2025-06-19,Pending
+44,11,Final Handover,2025-07-31,2025-07-31,On-Time
+45,12,Discovery,2026-01-01,2026-01-01,On-Time
+46,12,MVP,2025-10-14,2025-10-14,Pending
+47,12,Beta Launch,2026-01-17,2026-01-17,On-Time
+48,12,Final Handover,2025-10-31,2025-11-15,Delayed
+49,13,Discovery,2025-05-15,2025-05-15,Pending
+50,13,MVP,2025-06-26,2025-06-29,Delayed
+51,13,Beta Launch,2025-06-23,2025-06-23,On-Time
+52,13,Final Handover,2025-05-04,2025-05-04,On-Time
+53,14,Discovery,2025-08-13,2025-08-13,On-Time
+54,14,MVP,2025-08-23,2025-08-23,Pending
+55,14,Beta Launch,2025-08-29,2025-08-29,On-Time
+56,14,Final Handover,2025-08-23,2025-08-23,Pending
+57,15,Discovery,2025-11-10,2025-11-10,Pending
+58,15,MVP,2025-11-13,2025-11-13,Pending
+59,15,Beta Launch,2025-10-27,2025-11-03,Delayed
+60,15,Final Handover,2025-10-15,2025-10-15,On-Time
+61,16,Discovery,2025-11-22,2025-11-22,On-Time
+62,16,MVP,2025-11-01,2025-11-01,On-Time
+63,16,Beta Launch,2025-08-26,2025-08-26,On-Time
+64,16,Final Handover,2025-12-05,2025-12-25,Delayed
+65,17,Discovery,2026-01-11,2026-01-11,On-Time
+66,17,MVP,2026-02-23,2026-03-14,Delayed
+67,17,Beta Launch,2026-02-03,2026-02-03,On-Time
+68,17,Final Handover,2026-03-23,2026-04-11,Delayed
+69,18,Discovery,2025-11-01,2025-11-01,Pending
+70,18,MVP,2025-09-16,2025-09-16,Pending
+71,18,Beta Launch,2025-09-20,2025-09-25,Delayed
+72,18,Final Handover,2025-11-14,2025-11-14,Pending
+73,19,Discovery,2025-06-12,2025-06-12,On-Time
+74,19,MVP,2025-05-04,2025-05-04,On-Time
+75,19,Beta Launch,2025-05-12,2025-05-12,Pending
+76,19,Final Handover,2025-05-19,2025-05-19,On-Time
+77,20,Discovery,2025-11-27,2025-11-27,On-Time
+78,20,MVP,2025-12-22,2025-12-22,Pending
+79,20,Beta Launch,2026-01-13,2026-01-13,On-Time
+80,20,Final Handover,2026-01-20,2026-01-20,Pending
