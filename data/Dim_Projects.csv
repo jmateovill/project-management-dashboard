@@ -1,21 +1,21 @@
 ProjectID,ProjectName,ClientName,TotalProjectBudget,StartDate,EndDate,Status,DeptID
-1,Project_1,Client_1,438786,2025-05-22,2025-06-27,In-Progress,2
-2,Project_2,Client_2,436123,2025-07-18,2025-09-21,Upcoming,5
-3,Project_3,Client_3,66663,2025-05-09,2025-09-24,Upcoming,1
-4,Project_4,Client_4,314951,2025-07-15,2025-10-12,Completed,1
-5,Project_5,Client_5,425400,2026-01-07,2026-03-28,Completed,5
-6,Project_6,Client_6,285514,2025-10-26,2026-01-20,Completed,3
-7,Project_7,Client_7,416026,2025-03-29,2025-06-07,In-Progress,3
-8,Project_8,Client_8,162886,2025-08-15,2025-10-23,In-Progress,1
-9,Project_9,Client_9,100707,2025-05-12,2025-09-16,In-Progress,3
-10,Project_10,Client_10,432589,2025-08-08,2025-09-18,In-Progress,5
-11,Project_11,Client_11,91313,2025-05-28,2025-10-01,Completed,3
-12,Project_12,Client_12,150814,2025-09-27,2026-03-23,Completed,1
-13,Project_13,Client_13,455310,2025-04-18,2025-07-15,In-Progress,1
-14,Project_14,Client_14,249295,2025-07-23,2025-09-16,In-Progress,4
-15,Project_15,Client_15,244081,2025-09-28,2025-12-08,In-Progress,2
-16,Project_16,Client_16,369360,2025-08-09,2025-09-26,Completed,2
-17,Project_17,Client_17,135669,2025-12-24,2026-03-26,In-Progress,4
-18,Project_18,Client_18,165141,2025-08-11,2026-01-30,Completed,3
-19,Project_19,Client_19,480861,2025-04-23,2025-07-20,Upcoming,3
-20,Project_20,Client_20,84701,2025-10-17,2026-01-23,Upcoming,5
+1,Mobile Banking App Revamp,Globe Telecom,438786,2025-05-24,2025-06-29,In-Progress,2
+2,E-commerce Platform Migration,Ayala Corporation,436123,2025-07-20,2025-09-23,Upcoming,5
+3,Healthcare Patient Portal,BDO Unibank,66663,2025-05-11,2025-09-26,Upcoming,1
+4,SaaS Analytics Dashboard,Jollibee Foods Corporation,314951,2025-07-17,2025-10-14,Completed,1
+5,Logistics Tracking System,SM Investments,425400,2026-01-09,2026-03-30,Completed,5
+6,HR Management System Upgrade,PLDT Inc.,285514,2025-10-28,2026-01-22,Completed,3
+7,AI Chatbot Integration,UnionBank Philippines,416026,2025-03-31,2025-06-09,In-Progress,3
+8,FinTech Payment Gateway,Manila Water,162886,2025-08-17,2025-10-25,In-Progress,1
+9,Retail POS Modernization,Cebu Pacific,100707,2025-05-14,2025-09-18,In-Progress,3
+10,Insurance Claims Platform,Aboitiz Group,432589,2025-08-10,2025-09-20,In-Progress,5
+11,Food Delivery App Optimization,Robinsons Retail,91313,2025-05-30,2025-10-03,Completed,3
+12,EdTech Learning Platform,Metrobank,150814,2025-09-29,2026-03-25,Completed,1
+13,CRM System Customization,Accenture Philippines,455310,2025-04-20,2025-07-17,In-Progress,1
+14,Telemedicine Mobile App,Shopee Philippines,249295,2025-07-25,2025-09-18,In-Progress,4
+15,Travel Booking Engine,Lazada Philippines,244081,2025-09-30,2025-12-10,In-Progress,2
+16,Supply Chain Visibility Tool,GCash,369360,2025-08-11,2025-09-28,Completed,2
+17,Subscription Billing System,PayMaya,135669,2025-12-26,2026-03-28,In-Progress,4
+18,Marketplace Web App,San Miguel Corporation,165141,2025-08-13,2026-02-01,Completed,3
+19,Cybersecurity Monitoring Tool,Toyota Philippines,480861,2025-04-25,2025-07-22,Upcoming,3
+20,IoT Device Management Platform,Nestlé Philippines,84701,2025-10-19,2026-01-25,Upcoming,5
