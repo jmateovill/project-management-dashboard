@@ -15,8 +15,7 @@ A Power BI dashboard built to track **Project Health, Labor Costs, and Profitabi
 
 ![Project Portfolio Dashboard Snap](powerbi/ppm-dashboard-preview-1.png)
 ![Project Portfolio Dashboard Snap 2](powerbi/ppm-dashboard-preview-2.png)
-![Project Portfolio Dashboard Preview](powerbi/ppm-dashboard-preview-vid.mp4)
-
+<video src="https://github.com/user-attachments/assets/4adfc0f2-ca2c-4359-a4f5-221737796e67" width="320" height="240" controls></video>
 ---
 
 ## Data Model
